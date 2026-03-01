@@ -85,7 +85,7 @@ The official project blog, **Rubberduck News**, contains many years of technical
 
 👉 **Rubberduck News (English only)**  
 - [Rubberduck News (WordPress)](https://rubberduckvba.blog/)
-small>
+
 
 ## Legal notice
 <a name="legal-en"></a>
