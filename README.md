@@ -1,4 +1,4 @@
-<img width="502" height="272" alt="logo" src="https://github.com/user-attachments/assets/c0f97c4c-ca88-4508-bd55-73e946ea1d20" />
+![logo](https://github.com/user-attachments/assets/c0f97c4c-ca88-4508-bd55-73e946ea1d20)
 
 ##### [(English version follows)](#english)
 
