@@ -1,3 +1,5 @@
+##### [English](contact-us.md)
+
 # Nous joindre
 
 Solutions Logicielles Rubberduck VBA Inc.
