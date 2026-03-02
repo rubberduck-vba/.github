@@ -1,4 +1,4 @@
-[Français](a-propos.md)
+##### [Français](a-propos.md)
 
 # About
 
