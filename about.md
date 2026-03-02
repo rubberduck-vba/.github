@@ -1,3 +1,5 @@
+[Français](a-propos.md)
+
 # About
 
 ![logo](https://github.com/user-attachments/assets/c0f97c4c-ca88-4508-bd55-73e946ea1d20)
