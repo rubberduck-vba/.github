@@ -77,19 +77,25 @@ La Société vise à maintenir des versions française et anglaise cohérentes.
 
 
 ---
+
 # Mentions légales
 <a name="legal-fr"></a>
 
 <small>
-©️ <strong>Copyright 2026 Solutions Logicielles Rubberduck VBA Inc.</strong> (incorporation en attente)<br/>
-« Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués et protégés par <em>Solutions Logicielles Rubberduck VBA Inc.</em> (dépôt en attente).
+©️ <strong>Copyright 2026 Solutions Logicielles Rubberduck VBA Inc.</strong>  
+(incorporation en attente)<br/>
+« Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués, exercés et protégés par
+<em>Solutions Logicielles Rubberduck VBA Inc.</em> (dépôt en attente).
 </small>
-<br/>
+
+<br/><br/>
 
 > **Avis relatif aux marques de commerce**  
 >  
-> Les marques « Rubberduck » et « rubberduck-vba » sont utilisées depuis de nombreuses années en association avec le projet Rubberduck et les outils logiciels qui en sont issus. 
-> Toute référence à ces marques sur ce site constitue une affirmation des droits de <em>Solutions Logicielles Rubberduck VBA Inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions. 
-> Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.
+> Les marques « Rubberduck » et « rubberduck-vba » sont utilisées depuis de nombreuses années en association avec le projet Rubberduck et les outils logiciels qui en sont issus.  
+> Toute référence à ces marques sur ce site constitue une affirmation des droits de
+> <em>Solutions Logicielles Rubberduck VBA Inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions.  
+> Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.  
+> Cette position n’exclut pas, en soi, des situations de coexistence de bonne foi, lorsqu’elles sont compatibles avec la protection des droits revendiqués.
 
-Politique de confidentialité | [Nous joindre](nous-joindre.md)
+[Politique de confidentialité](confidentialite.md) | [Nous joindre](nous-joindre.md)
