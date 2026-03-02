@@ -100,6 +100,8 @@ The official project blog, **Rubberduck News**, contains many years of technical
 
 *Make sure you are subscribed to be notified when everything is explained in an upcoming blog post.*
 
+---
+
 ## Legal notice
 <a name="legal-en"></a>
 
