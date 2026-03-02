@@ -45,8 +45,9 @@ Le blogue officiel du projet, **Rubberduck News**, contient de nombreuses année
 > **Avis relatif aux marques de commerce**  
 >  
 > Les marques « Rubberduck » et « rubberduck-vba » sont utilisées depuis de nombreuses années en association avec le projet Rubberduck et les outils logiciels qui en sont issus. 
-> Toute référence à ces marques sur ce site constitue une affirmation des droits de <em>Solutions Logicielles Rubberduck VBA Inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions. 
-> Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.
+> Toute référence à ces marques sur ce site constitue une affirmation des droits de <em>Solutions Logicielles Rubberduck VBA Inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions.  
+> Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.  
+> Cette position n’exclut pas, en soi, des situations de coexistence de bonne foi, lorsqu’elles sont compatibles avec la protection des droits revendiqués.
 
 [Politique de confidentialité](confidentialite.md) | [Nous joindre](nous-joindre.md)
 
