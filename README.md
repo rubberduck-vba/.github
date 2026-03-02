@@ -1,10 +1,14 @@
+# rubberduck-vba
+
 ![logo](https://github.com/user-attachments/assets/c0f97c4c-ca88-4508-bd55-73e946ea1d20)
 
 ##### [(English version follows)](#english)
 
-# rubberduck-vba
-
 Cette organisation **GitHub** héberge Rubberduck depuis le tout début, et continuera de le faire.
+
+ - [A propos](a-propos.md)
+ - [Politique de confidentialité](confidentialite.md)
+ - [Nous joindre](nous-joindre.md)
 
 ## Archive Historique
 
@@ -27,9 +31,10 @@ Bien qu'elle ne soit plus en développement actif, l'ensemble du projet demeure 
 
 Le blogue officiel du projet, **Rubberduck News**, contient de nombreuses années d'articles techniques, d'annonces de versions, de réflexions sur le design logiciel et de contenu éducatif autour de VBA, VB6 et du développement d'outils pour le VBE.
 
-👉 **Rubberduck News (en Anglais seulement)** 
+👉 **Rubberduck News (contenu historique en Anglais seulement)**
 - [Rubberduck News (WordPress)](https://rubberduckvba.blog/)
 
+---
 
 # Mentions légales
 <a name="legal-fr"></a>
@@ -59,6 +64,10 @@ Le blogue officiel du projet, **Rubberduck News**, contient de nombreuses année
 # rubberduck-vba
 
 This **GitHub** organization has hosted Rubberduck since its very beginning and will continue to do so.
+
+ - [About](about.md)
+ - [Privacy policy](privacy.md)
+ - [Contact us](contact-us.md)
 
 ## Historical Archive
 
@@ -105,6 +114,7 @@ The official project blog, **Rubberduck News**, contains many years of technical
 >  
 > Any reference to these trademarks on this site constitutes an assertion of rights by <em>Rubberduck VBA Software Solutions Inc.</em>, without prejudice to any legitimate rights that third parties may hold in other contexts or jurisdictions. 
 > No tolerance, waiver, or implied authorization is granted by the use or mention of these trademarks.
+> This position does not, in itself, preclude good‑faith coexistence arrangements where they are compatible with protecting the rights asserted.
 <br/>
 
 [Privacy Policy](privacy.md) | [Contact us](contact-us.md)
