@@ -65,6 +65,8 @@ Le blogue officiel du projet, **Rubberduck News**, contient de nombreuses année
 
 # rubberduck-vba
 
+![logo](https://github.com/user-attachments/assets/c0f97c4c-ca88-4508-bd55-73e946ea1d20)
+
 This **GitHub** organization has hosted Rubberduck since its very beginning and will continue to do so.
 
  - [About](about.md)
