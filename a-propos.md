@@ -1,4 +1,4 @@
-[English](about.md)
+##### [English](about.md)
 
 # À propos
 
