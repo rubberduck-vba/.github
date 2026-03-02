@@ -1,0 +1,71 @@
+# À propos
+
+![logo](https://github.com/user-attachments/assets/c0f97c4c-ca88-4508-bd55-73e946ea1d20)
+
+Solutions Logicielles Rubberduck VBA Inc. est une société de logiciels basée au Canada, engagée dans le développement d'outils techniques destinés aux professionnels.
+
+Notre approche repose sur des principes simples : 
+rigueur technique, transparence, respect des utilisateurs et des contributeurs, et volonté de bâtir des solutions durables dans le temps.
+
+## Notre philosophie
+
+Nous croyons que les outils logiciels doivent :
+
+- être conçus avec soin et responsabilité ;
+- respecter la vie privée par défaut ;
+- s'appuyer sur des standards ouverts lorsque cela est possible ;
+- reconnaître et respecter le travail des communautés et des contributeurs.
+
+Ces principes guident nos choix techniques, nos pratiques de publication et nos relations avec les utilisateurs, partenaires et développeurs tiers.
+
+## Communauté et contributions
+
+Une partie de nos travaux s'inscrit dans des écosystèmes collaboratifs et open-source.  
+Nous accordons une importance particulière à :
+
+- la clarté des licences ;
+- la reconnaissance des contributions ;
+- la coexistence saine entre initiatives communautaires et activités commerciales.
+
+Les modalités applicables sont toujours publiées de manière transparente.
+
+## Évolution et transparence
+
+Certaines informations concernant nos produits, services ou infrastructures sont volontairement publiées de façon progressive.
+
+Cette démarche vise à :
+- éviter toute confusion prématurée ;
+- préserver la qualité et la cohérence des annonces publiques ;
+- garantir que les engagements communiqués sont exacts et tenables.
+
+Les pages publiques sont appelées à évoluer à mesure que nos activités se déploient.
+
+### L'avenir en mode Open-Core
+
+La prochaine évolution de Rubberduck sera réalisée et commercialisée selon un modèle Open-Core, toujours sous licence GPLv3, ...mais avec des dents.
+
+## Nous joindre
+
+Pour toute question ou demande, veuillez consulter la page
+[Nous joindre](nous-joindre.md).
+
+---
+
+# Mentions légales
+<a name="legal-fr"></a>
+
+<small>
+©️ <strong>Copyright 2026 Solutions Logicielles Rubberduck VBA Inc.</strong>
+(incorporation en attente)<br/>
+« Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués et protégés par <em>Solutions Logicielles Rubberduck VBA Inc.</em> (dépôt en attente).
+</small>
+<br/>
+<br/>
+
+> **Avis relatif aux marques de commerce**  
+>  
+> Les marques « Rubberduck » et « rubberduck-vba » sont utilisées depuis de nombreuses années en association avec le projet Rubberduck et les outils logiciels qui en sont issus. 
+> Toute référence à ces marques sur ce site constitue une affirmation des droits de <em>Solutions Logicielles Rubberduck VBA Inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions. 
+> Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.
+
+[Politique de confidentialité](confidentialite.md) | [Nous joindre](nous-joindre.md)
