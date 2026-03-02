@@ -34,6 +34,8 @@ Le blogue officiel du projet, **Rubberduck News**, contient de nombreuses année
 👉 **Rubberduck News (contenu historique en Anglais seulement)**
 - [Rubberduck News (WordPress)](https://rubberduckvba.blog/)
 
+*Assurez-vous d'être abonnés au blogue afin d’être informé lorsque tous les détails seront présentés dans un prochain article.*
+
 ---
 
 # Mentions légales
@@ -96,6 +98,7 @@ The official project blog, **Rubberduck News**, contains many years of technical
 👉 **Rubberduck News (English only)**  
 - [Rubberduck News (WordPress)](https://rubberduckvba.blog/)
 
+*Make sure you are subscribed to be notified when everything is explained in an upcoming blog post.*
 
 ## Legal notice
 <a name="legal-en"></a>
