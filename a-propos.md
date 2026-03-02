@@ -57,7 +57,7 @@ Pour toute question ou demande, veuillez consulter la page
 <small>
 ©️ <strong>Copyright 2026 Solutions Logicielles Rubberduck VBA Inc.</strong>
 (incorporation en attente)<br/>
-« Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués et protégés par <em>Solutions Logicielles Rubberduck VBA Inc.</em> (dépôt en attente).
+« Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués, exercés, et protégés par <em>Solutions Logicielles Rubberduck VBA Inc.</em> (dépôt en attente).
 </small>
 <br/>
 <br/>
