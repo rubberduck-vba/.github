@@ -10,23 +10,13 @@ We welcome questions, comments, and inquiries. Please use the appropriate email 
 
 ## Mailing Address
 
-**P.O. Box:**  
-To be determined  
-(placeholder — details will be provided later)
+MATHIEU GUINDON | SOLUTIONS LOGICIELLES RUBBERDUCK VBA INC.
+275-1055 RUE LUCIEN-L'ALLIER
+MONTREAL, QC H3G 3C4
 
 ## Email
 
-- **info@rubberduckvba.com**  
-  For general or business-related inquiries.
-
-- **admin@rubberduckvba.com**  
-  For administrative matters.
-
-- **support@rubberduckvba.com**  
-  For help with a product or service.
-
-- **legal@rubberduckvba.com**  
-  For legal, regulatory, or intellectual property matters.
+- **admin@rubberduckvba.coa**  
 
 Thank you for getting in touch.
 
