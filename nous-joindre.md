@@ -18,7 +18,7 @@ MONTREAL, QC H3G 3C4
 
 ## Courriel
 
-- **admin@rubberduckvba.coa**  
+- **admin@rubberduckvba.ca**  
 
 Merci de votre intérêt.
 
