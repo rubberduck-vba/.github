@@ -12,7 +12,7 @@ Cette organisation **GitHub** héberge Rubberduck depuis le tout début, et cont
 
 ## Archive Historique
 
-Les dépôts git sous cette organisation en date du 2026-02-28 constituent l'archive historique et l'héritage de _Rubberduck_. Il s'agit de contenu ayant contribué au développement, à l'essort, à la renommée de _Rubberduck_ au fil des ans. La compagnie constituée dans ce but, s'engage à défendre les droits de ses auteurs et contributeurs historiques. Pour toute question, veuillez contacter info@rubberduckvba.com par courriel, ou consulter la section **nous joindre** pour d'autres options.
+Les dépôts git sous cette organisation en date du 2026-02-28 constituent l'archive historique et l'héritage de _Rubberduck_. Il s'agit de contenu ayant contribué au développement, à l'essort, à la renommée de _Rubberduck_ au fil des ans. La compagnie constituée dans ce but, s'engage à défendre les droits de ses auteurs et contributeurs historiques. Pour toute question, veuillez contacter **admin@rubberduckvba.ca** par courriel, ou consulter la section **nous joindre** pour d'autres options.
 
 
 ## Téléchargement – Où trouver Rubberduck v2.x?
@@ -79,7 +79,7 @@ The git repositories under this organization as of 2026-02-28 constitute the his
 This content played a significant role in the development, growth, and recognition of the project over the years.
 
 The company incorporated for this purpose is committed to defending the rights of Rubberduck’s historical authors and contributors.  
-For any inquiries, please contact **info@rubberduckvba.com** by email, or consult the **Contact us** section for additional options.
+For any inquiries, please contact **admin@rubberduckvba.ca** by email, or consult the **Contact us** section for additional options.
 
 ## Download – Where to find Rubberduck v2.x
 
