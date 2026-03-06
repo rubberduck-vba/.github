@@ -2,7 +2,7 @@
 
 # About
 
-![logo](https://github.com/user-attachments/assets/c0f97c4c-ca88-4508-bd55-73e946ea1d20)
+![logo](https://github.com/user-attachments/assets/6dbf8a1b-b4f4-4709-a314-475777d960ac)
 
 Rubberduck VBA Software Solutions Inc. is a Canadian software company (in the process of incorporation), focused on the development of technical tools for professionals.
 
