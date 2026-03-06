@@ -16,7 +16,7 @@ MONTREAL, QC H3G 3C4
 
 ## Email
 
-- **admin@rubberduckvba.coa**  
+- **admin@rubberduckvba.ca**  
 
 Thank you for getting in touch.
 
