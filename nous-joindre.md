@@ -10,24 +10,15 @@ Nous sommes heureux de recevoir vos questions, commentaires ou demandes. Veuille
 
 ## Coordonnées postales
 
-**Casier postal :**  
-À déterminer  
-(placeholder — sera précisé ultérieurement)
+## Adresse Postale
+
+MATHIEU GUINDON | SOLUTIONS LOGICIELLES RUBBERDUCK VBA INC.
+275-1055 RUE LUCIEN-L'ALLIER
+MONTREAL, QC H3G 3C4
 
 ## Courriel
 
-- **info@rubberduckvba.com**  
-  Pour toute question d’ordre général ou d’affaires.
-
-- **admin@rubberduckvba.com**  
-  Pour toute demande d’ordre administratif.
-
-- **support@rubberduckvba.com**  
-  Pour obtenir de l’aide avec un produit ou un service.
-
-- **legal@rubberduckvba.com**  
-  Pour tout enjeu d’ordre légal, réglementaire ou lié à la propriété intellectuelle.
-
+- **admin@rubberduckvba.coa**  
 
 Merci de votre intérêt.
 
