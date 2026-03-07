@@ -115,4 +115,4 @@ The Company aims to maintain consistent French and English versions.
 > No tolerance, waiver, or implied authorization is granted by the use or mention of these trademarks.  
 > This position does not, in itself, preclude good‑faith coexistence arrangements where they are compatible with protecting the rights asserted.
 
-Privacy Policy | [Contact us](contact-us.md)
+[Home](README.md) | [About](about.md) | Privacy Policy | [Contact us](contact-us.md)
