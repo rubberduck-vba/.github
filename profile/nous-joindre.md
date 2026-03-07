@@ -44,4 +44,4 @@ Merci de votre intérêt.
 > Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.  
 > Cette position n’exclut pas, en soi, des situations de coexistence de bonne foi, lorsqu’elles sont compatibles avec la protection des droits revendiqués.
 
-[Politique de confidentialité](confidentialite.md) | Nous joindre
+[Accueil](README.md) | [A propos](a-propos.md) | [Politique de confidentialité](confidentialite.md) | Nous joindre
