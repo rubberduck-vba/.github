@@ -56,7 +56,7 @@ Le blogue officiel du projet, **Rubberduck News**, contient de nombreuses année
 > Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.  
 > Cette position n’exclut pas, en soi, des situations de coexistence de bonne foi, lorsqu’elles sont compatibles avec la protection des droits revendiqués.
 
-[Politique de confidentialité](confidentialite.md) | [Nous joindre](nous-joindre.md)
+Accueil | [A propos](a-propos.md) | [Politique de confidentialité](confidentialite.md) | [Nous joindre](nous-joindre.md)
 
 ---
 
@@ -124,4 +124,4 @@ The official project blog, **Rubberduck News**, contains many years of technical
 > This position does not, in itself, preclude good‑faith coexistence arrangements where they are compatible with protecting the rights asserted.
 <br/>
 
-[Privacy Policy](privacy.md) | [Contact us](contact-us.md)
+Home | [About](about.md) | [Privacy Policy](privacy.md) | [Contact us](contact-us.md)
