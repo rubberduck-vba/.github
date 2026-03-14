@@ -6,12 +6,12 @@
 
 **Ébauche temporaire — version préliminaire**
 
-Dernière mise à jour : 2026-03-01  
-Solutions Logicielles Rubberduck VBA Inc.
+Dernière mise à jour : 2026-03-14  
+9562-7303 Québec inc.  
 
 ## 1. Objet et portée
 
-La présente politique de confidentialité décrit l'approche générale adoptée par <em>Solutions Logicielles Rubberduck VBA Inc.</em> (la « Société ») en matière de respect de la vie privée.
+La présente politique de confidentialité décrit l'approche générale adoptée par <em>9562-7303 Québec inc.</em> (la « Société ») en matière de respect de la vie privée.
 
 Elle s'applique aux logiciels, services, sites web, dépôts de code et communications exploités par la Société, dans leur état actuel ou futur.
 
@@ -73,8 +73,8 @@ Toute version plus détaillée ou contraignante sera publiée publiquement et da
 
 Pour toute question liée à la confidentialité ou aux droits des utilisateurs et contributeurs :
 
-- **privacy@rubberduckvba.com**  
-- **legal@rubberduckvba.com**
+- **confidentialite@rubberduckvba.com**  
+- **legal@rubberduckvba.com**  
 
 La Société vise à maintenir des versions française et anglaise cohérentes.
 
@@ -85,10 +85,9 @@ La Société vise à maintenir des versions française et anglaise cohérentes.
 <a name="legal-fr"></a>
 
 <small>
-©️ <strong>Copyright 2026 Solutions Logicielles Rubberduck VBA Inc.</strong>  
-(incorporation en attente)<br/>
+©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong><br/>
 « Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués, exercés et protégés par
-<em>Solutions Logicielles Rubberduck VBA Inc.</em> (dépôt en attente).
+<em>9562-7303 Québec inc.</em> (dépôt en attente).
 </small>
 
 <br/><br/>
@@ -97,7 +96,7 @@ La Société vise à maintenir des versions française et anglaise cohérentes.
 >  
 > Les marques « Rubberduck » et « rubberduck-vba » sont utilisées depuis de nombreuses années en association avec le projet Rubberduck et les outils logiciels qui en sont issus.  
 > Toute référence à ces marques sur ce site constitue une affirmation des droits de
-> <em>Solutions Logicielles Rubberduck VBA Inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions.  
+> <em>9562-7303 Québec inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions.  
 > Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.  
 > Cette position n’exclut pas, en soi, des situations de coexistence de bonne foi, lorsqu’elles sont compatibles avec la protection des droits revendiqués.
 

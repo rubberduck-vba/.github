@@ -6,13 +6,13 @@
 
 **Temporary Draft — Preliminary Version**
 
-Last updated: 2026-03-01  
-Solutions Logicielles Rubberduck VBA Inc.
+Last updated: 2026-03-14  
+9562-7303 Québec inc.  
 
 ## 1. Purpose and Scope
 
 This Privacy Policy describes the general approach adopted by
-Solutions Logicielles Rubberduck VBA Inc. (the “Company”) with respect to privacy
+9562-7303 Québec inc. (the “Company”) with respect to privacy
 and personal information.
 
 It applies to software, services, websites, code repositories, and
@@ -99,10 +99,9 @@ The Company aims to maintain consistent French and English versions.
 <a name="legal-en"></a>
 
 <small>
-©️ <strong>Copyright 2026 Rubberduck VBA Software Solutions Inc.</strong>
-(incorporation pending)<br/>
+©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong><br/>
 “Rubberduck” and “rubberduck-vba” are trademarks whose rights are claimed, exercised, and protected by
-<em>Rubberduck VBA Software Solutions Inc.</em> (applications pending).
+<em>9562-7303 Québec inc.</em> (applications pending).
 </small>
 
 <br/><br/>
@@ -111,7 +110,7 @@ The Company aims to maintain consistent French and English versions.
 >  
 > The “Rubberduck” and “rubberduck-vba” trademarks have been used for many years in association with the Rubberduck project and the software tools derived from it.  
 > Any reference to these trademarks on this site constitutes an assertion of rights by
-> <em>Rubberduck VBA Software Solutions Inc.</em>, without prejudice to any legitimate rights that third parties may hold in other contexts or jurisdictions.  
+> <em>9562-7303 Québec inc.</em>, without prejudice to any legitimate rights that third parties may hold in other contexts or jurisdictions.  
 > No tolerance, waiver, or implied authorization is granted by the use or mention of these trademarks.  
 > This position does not, in itself, preclude good‑faith coexistence arrangements where they are compatible with protecting the rights asserted.
 

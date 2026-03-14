@@ -4,7 +4,7 @@
 
 ![logo](https://github.com/user-attachments/assets/6dbf8a1b-b4f4-4709-a314-475777d960ac)
 
-Solutions Logicielles Rubberduck VBA Inc. est une entreprise canadienne de logiciels (en cours de constitution), engagée dans le développement d’outils techniques destinés aux professionnels.
+**9562-7303 Québec inc.** ("Solutions Logicielles Rubberduck VBA") est une entreprise canadienne de logiciels, engagée dans le développement d’outils techniques destinés aux professionnels.
 
 Notre approche repose sur des principes simples :  
 rigueur technique, transparence, respect des utilisateurs et des contributeurs, et volonté de bâtir des solutions durables dans le temps.
@@ -63,19 +63,16 @@ Pour toute question ou demande, veuillez consulter la page
 <a name="legal-fr"></a>
 
 <small>
-©️ <strong>Copyright 2026 Solutions Logicielles Rubberduck VBA Inc.</strong>  
-(incorporation en attente)<br/>
-« Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués, exercés et protégés par
-<em>Solutions Logicielles Rubberduck VBA Inc.</em> (dépôt en attente).
+©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong><br/>
+« Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués, exercés, et protégés par <em>9562-7303 Québec inc.</em> (dépôt en attente).
 </small>
-
-<br/><br/>
+<br/>
+<br/>
 
 > **Avis relatif aux marques de commerce**  
 >  
-> Les marques « Rubberduck » et « rubberduck-vba » sont utilisées depuis de nombreuses années en association avec le projet Rubberduck et les outils logiciels qui en sont issus.  
-> Toute référence à ces marques sur ce site constitue une affirmation des droits de
-> <em>Solutions Logicielles Rubberduck VBA Inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions.  
+> Les marques « Rubberduck » et « rubberduck-vba » sont utilisées depuis de nombreuses années en association avec le projet Rubberduck et les outils logiciels qui en sont issus. 
+> Toute référence à ces marques sur ce site constitue une affirmation des droits de <em>9562-7303 Québec inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions.  
 > Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.  
 > Cette position n’exclut pas, en soi, des situations de coexistence de bonne foi, lorsqu’elles sont compatibles avec la protection des droits revendiqués.
 
