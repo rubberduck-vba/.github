@@ -42,9 +42,8 @@ Le blogue officiel du projet, **Rubberduck News**, contient de nombreuses année
 <a name="legal-fr"></a>
 
 <small>
-©️ <strong>Copyright 2026 Solutions Logicielles Rubberduck VBA Inc.</strong>
-(incorporation en attente)<br/>
-« Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués, exercés, et protégés par <em>Solutions Logicielles Rubberduck VBA Inc.</em> (dépôt en attente).
+©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong>
+« Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués, exercés, et protégés par <em>9562-7303 Québec inc.</em> (dépôt en attente).
 </small>
 <br/>
 <br/>
@@ -108,8 +107,8 @@ The official project blog, **Rubberduck News**, contains many years of technical
 <a name="legal-en"></a>
 
 <small>
-©️ <strong>Copyright 2026 Rubberduck VBA Software Solutions Inc.</strong> (incorporation pending)<br/>
-“Rubberduck” and “rubberduck-vba” are trademarks whose rights are claimed, exercised, and actively protected by <em>Rubberduck VBA Software Solutions Inc.</em> (applications pending).
+©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong>
+“Rubberduck” and “rubberduck-vba” are trademarks whose rights are claimed, exercised, and actively protected by <em>9562-7303 Québec inc.</em> (applications pending).
 </small>
 
 <br/>
