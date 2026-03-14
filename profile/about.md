@@ -4,9 +4,9 @@
 
 ![logo](https://github.com/user-attachments/assets/6dbf8a1b-b4f4-4709-a314-475777d960ac)
 
-Rubberduck VBA Software Solutions Inc. is a Canadian software company (in the process of incorporation), focused on the development of technical tools for professionals.
+**9562-7303 Québec inc.** ("Rubberduck VBA Software Solutions") is a Canadian software company, focused on the development of technical tools for professionals.
 
-Our approach is grounded in a set of simple principles:
+Our approach is grounded in a set of simple principles:  
 technical rigor, transparency, respect for users and contributors, and a commitment to building solutions designed to endure over time.
 
 ## Our philosophy
@@ -39,10 +39,10 @@ Applicable terms are published transparently, as appropriate.
 
 Certain information relating to our products, services, or infrastructure is intentionally disclosed on a progressive basis.
 
-This approach is intended to:
-- avoid premature confusion;
-- preserve the quality and consistency of public communications;
-- ensure that stated commitments are accurate and sustainable.
+This approach is intended to:  
+- avoid premature confusion;  
+- preserve the quality and consistency of public communications;  
+- ensure that stated commitments are accurate and sustainable.  
 
 > ⚠️ Public pages are expected to evolve as our activities develop.
 
@@ -63,7 +63,7 @@ For any questions or inquiries, please refer to the
 <a name="legal-en"></a>
 
 <small>
-©️ <strong>Copyright 2026 Rubberduck VBA Software Solutions Inc.</strong>
+©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong>
 (incorporation pending)<br/>
 “Rubberduck” and “rubberduck-vba” are trademarks whose rights are claimed, exercised, and protected by
 <em>Rubberduck VBA Software Solutions Inc.</em> (applications pending).
@@ -75,7 +75,7 @@ For any questions or inquiries, please refer to the
 >  
 > The “Rubberduck” and “rubberduck-vba” trademarks have been used for many years in association with the Rubberduck project and the software tools derived from it.  
 > Any reference to these trademarks on this site constitutes an assertion of rights by
-> <em>Rubberduck VBA Software Solutions Inc.</em>, without prejudice to any legitimate rights that third parties may hold in other contexts or jurisdictions.  
+> <em>9562-7303 Québec inc.</em>, without prejudice to any legitimate rights that third parties may hold in other contexts or jurisdictions.  
 > No tolerance, waiver, or implied authorization is granted by the use or mention of these trademarks.  
 > This position does not, in itself, preclude good‑faith coexistence arrangements where they are compatible with protecting the rights asserted.
 
