@@ -4,13 +4,13 @@
 
 ![logo](https://github.com/user-attachments/assets/6dbf8a1b-b4f4-4709-a314-475777d960ac)
 
-### 9562-7303 Québec inc.
+### 9562-7303 Québec inc. | Rubberduck VBA Software Solutions
 
 We welcome questions, comments, and inquiries. Please use the appropriate email address below to help us respond efficiently.
 
 ## Mailing Address
 
-Mathieu Guindon | 9562-7303 Québec inc.
+Mathieu Guindon | 9562-7303 Québec inc.  
 275-1055 RUE LUCIEN-L'ALLIER  
 MONTREAL, QC H3G 3C4  
 
