@@ -6,7 +6,7 @@
 
 **Ébauche temporaire — version préliminaire**
 
-Dernière mise à jour : 2026-03-01  
+Dernière mise à jour : 2026-03-14  
 9562-7303 Québec inc.  
 
 ## 1. Objet et portée
