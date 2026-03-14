@@ -63,8 +63,7 @@ For any questions or inquiries, please refer to the
 <a name="legal-en"></a>
 
 <small>
-©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong>
-(incorporation pending)<br/>
+©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong><br/>
 “Rubberduck” and “rubberduck-vba” are trademarks whose rights are claimed, exercised, and protected by
 <em>Rubberduck VBA Software Solutions Inc.</em> (applications pending).
 </small>
