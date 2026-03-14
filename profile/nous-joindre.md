@@ -4,7 +4,7 @@
 ![logo](https://github.com/user-attachments/assets/6dbf8a1b-b4f4-4709-a314-475777d960ac)
 
 
-### Solutions Logicielles Rubberduck VBA Inc.
+### 9562-7303 Québec inc. | Solutions Logicielles Rubberduck VBA
 
 Nous sommes heureux de recevoir vos questions, commentaires ou demandes. Veuillez utiliser l’adresse courriel appropriée afin d’assurer un traitement efficace.
 
@@ -12,7 +12,7 @@ Nous sommes heureux de recevoir vos questions, commentaires ou demandes. Veuille
 
 ## Adresse Postale
 
-MATHIEU GUINDON | SOLUTIONS LOGICIELLES RUBBERDUCK VBA INC.  
+Mathieu Guindon | 9562-7303 Québec inc.  
 275-1055 RUE LUCIEN-L'ALLIER  
 MONTREAL, QC H3G 3C4  
 
@@ -28,10 +28,9 @@ Merci de votre intérêt.
 <a name="legal-fr"></a>
 
 <small>
-©️ <strong>Copyright 2026 Solutions Logicielles Rubberduck VBA Inc.</strong>  
-(incorporation en attente)<br/>
+©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong><br/>
 « Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués, exercés et protégés par
-<em>Solutions Logicielles Rubberduck VBA Inc.</em> (dépôt en attente).
+<em>9562-7303 Québec inc.</em> (dépôt en attente).
 </small>
 
 <br/><br/>
@@ -40,7 +39,7 @@ Merci de votre intérêt.
 >  
 > Les marques « Rubberduck » et « rubberduck-vba » sont utilisées depuis de nombreuses années en association avec le projet Rubberduck et les outils logiciels qui en sont issus.  
 > Toute référence à ces marques sur ce site constitue une affirmation des droits de
-> <em>Solutions Logicielles Rubberduck VBA Inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions.  
+> <em>9562-7303 Québec inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions.  
 > Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.  
 > Cette position n’exclut pas, en soi, des situations de coexistence de bonne foi, lorsqu’elles sont compatibles avec la protection des droits revendiqués.
 
