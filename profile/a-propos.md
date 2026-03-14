@@ -4,7 +4,7 @@
 
 ![logo](https://github.com/user-attachments/assets/6dbf8a1b-b4f4-4709-a314-475777d960ac)
 
-Solutions Logicielles Rubberduck VBA Inc. est une entreprise canadienne de logiciels (en cours de constitution), engagée dans le développement d’outils techniques destinés aux professionnels.
+**9562-7303 Québec inc.** ("Solutions Logicielles Rubberduck VBA") est une entreprise canadienne de logiciels, engagée dans le développement d’outils techniques destinés aux professionnels.
 
 Notre approche repose sur des principes simples :  
 rigueur technique, transparence, respect des utilisateurs et des contributeurs, et volonté de bâtir des solutions durables dans le temps.
