@@ -1,53 +1,36 @@
-# .github
+# rubberduck-vba | [rubberduckvba.ca](https://rubberduckvba.ca)
 
-![logo](https://github.com/user-attachments/assets/6dbf8a1b-b4f4-4709-a314-475777d960ac)
+**La demeure officielle de Rubberduck VBA sur GitHub | The official home of Rubberduck VBA on GitHub**
 
-##### [(English version follows)](#english)
+<img width="400" height="400" alt="premium-stone-vivat-cucumis" src="https://github.com/user-attachments/assets/03791874-3be9-4e5a-abbc-193c7fdfcf43" />
 
-Ce dépôt public contient les pages statiques affichées au profil de l'organisation.
+# VIVAT CUCUMIS
+
+**La clé 18089** d'une table de ressources dans **VBE7INTL.DLL** a été découverte le **2016-05-26** par le contributeur Rubberduck historique @Comintern - un petit trésor caché au milieu de libellés autrement ordinaires.
+
+Le projet Rubberduck a toujours voulu faire quelque chose de cette phrase, et donc **Rubberduck Core** se l'approprie - en faisant du langage Visual Basic et de l'héritage de son code source le proverbial concombre. L'écrire en latin et le graver dans la pierre lui fait dire "ceci était là bien avant vous, et sera toujours là bien après vous".
+
+```
+STRINGTABLE
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+{
+ 18080, "Tile Horizontally"
+ 18081, "Tile Vertically"
+ 18082, "Arrange Icons"
+ 18083, "Microsoft Visual Basic for Applications Help Topics"
+ 18084, "Search Reference Index..."
+ 18085, "Obtaining Technical Support"
+ 18088, "About Microsoft Visual Basic for Applications..."
+ 18089, "Long Live the Cucumber"
+ 18090, "Break On All"
+ 18091, "Break In Ole Server"
+ 18092, "Break On Unhandled"
+}
+```
+
+**Key 18089** of an English-US string resource table within **VBE7INTL.DLL** was found on **2016-05-26** by historical Rubberduck contributor @Comintern - a little gem hidden between otherwise ordinarily boring label captions.
+
+The Rubberduck project always wanted to do something with this, and so **Rubberduck Core** appropriates it - making the Visual Basic language and its legacy source code the proverbial cucumber that shall live on. Writing it in Latin and carving it in stone makes it say "this was here well before you, and will still be there well after you".
 
 ---
-
-# Mentions légales
-<a name="legal-fr"></a>
-
-<small>
-©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong><br/>
-« Rubberduck » et « rubberduck-vba » sont des marques de commerce dont les droits sont revendiqués, exercés, et protégés par <em>9562-7303 Québec inc.</em> (dépôt en attente).
-</small>
-<br/>
-<br/>
-
-> **Avis relatif aux marques de commerce**  
->  
-> Les marques « Rubberduck » et « rubberduck-vba » sont utilisées depuis de nombreuses années en association avec le projet Rubberduck et les outils logiciels qui en sont issus. 
-> Toute référence à ces marques sur ce site constitue une affirmation des droits de <em>9562-7303 Québec inc.</em>, sans préjudice aux droits légitimes que pourraient détenir des tiers dans d’autres contextes ou juridictions.  
-> Aucune tolérance, renonciation ou autorisation implicite n’est accordée par l’usage ou la mention de ces marques.  
-> Cette position n’exclut pas, en soi, des situations de coexistence de bonne foi, lorsqu’elles sont compatibles avec la protection des droits revendiqués.
-
----
-
-##### English
-<a name="english"></a>
-
-This public repository contains the static pages displayed in the organization profile. 
-
-## Legal notice
-<a name="legal-en"></a>
-
-<small>
-©️ <strong>Copyright 2026 9562-7303 Québec inc.</strong><br/>
-“Rubberduck” and “rubberduck-vba” are trademarks whose rights are claimed, exercised, and actively protected by <em>9562-7303 Québec inc.</em> (applications pending).
-</small>
-
-<br/>
-<br/>
-
-> **Trademark Notice**  
->  
-> The “Rubberduck” and “rubberduck-vba” trademarks have been used for many years in association with the Rubberduck project and the software tools derived from it.
->  
-> Any reference to these trademarks on this site constitutes an assertion of rights by <em>9562-7303 Québec inc.</em>, without prejudice to any legitimate rights that third parties may hold in other contexts or jurisdictions. 
-> No tolerance, waiver, or implied authorization is granted by the use or mention of these trademarks.
-> This position does not, in itself, preclude good‑faith coexistence arrangements where they are compatible with protecting the rights asserted.
-<br/>
+<small>(C) Copyright 2026 1962-7303 Québec inc.<small>
