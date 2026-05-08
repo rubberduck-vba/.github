@@ -1,10 +1,8 @@
-# rubberduck-vba 
+# rubberduck-vba | [rubberduckvba.ca](https://rubberduckvba.ca)
 
 **La demeure officielle de Rubberduck VBA sur GitHub | The official home of Rubberduck VBA on GitHub**
 
 <img width="400" height="400" alt="premium-stone-vivat-cucumis" src="https://github.com/user-attachments/assets/03791874-3be9-4e5a-abbc-193c7fdfcf43" />
-
-[rubberduckvba.ca](https://rubberduckvba.ca)
 
 # VIVAT CUCUMIS
 
@@ -33,3 +31,6 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 **Key 18089** of an English-US string resource table within **VBE7INTL.DLL** was found on **2016-05-26** by historical Rubberduck contributor @Comintern - a little gem hidden between otherwise ordinarily boring label captions.
 
 The Rubberduck project always wanted to do something with this, and so **Rubberduck Core** appropriates it - making the Visual Basic language and its legacy source code the proverbial cucumber that shall live on. Writing it in Latin and carving it in stone makes it say "this was here well before you, and will still be there well after you".
+
+---
+<small>(C) Copyright 2026 1962-7303 Québec inc.<small>
