@@ -33,4 +33,21 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 The Rubberduck project always wanted to do something with this, and so **Rubberduck Core** appropriates it - making the Visual Basic language and its legacy source code the proverbial cucumber that shall live on. Writing it in Latin and carving it in stone makes it say "this was here well before you, and will still be there well after you".
 
 ---
+
+# Téléchargements | Downloads
+
+Vous trouverez dans ce dépôt les documents publics suivants en accès libre, offerts pour fins de référence et de documentation :
+
+- [**MS-VBAL**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/%5BMS-VBAL%5D.pdf) : La version de la spécification du langage de programmation _Visual Basic for Appplication_ (VBA) de Microsoft utilisée par 9562-7303 Québec inc. pour l'implémentation du serveur de langage (LSP) de **Rubberduck Core** (RDCore).
+- [**Rubberduck Style Guide (2023 Edition)**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/Rubberduck%20Style%20Guide%20(2023%20Edition).pdf) : Le document original publié en juin 2023 par Mathieu Guindon (anglais seulement).
+- [**Rubberduck Style Guide (2nd Edition) - EN**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/Rubberduck%20Style%20Guide%20(2nd%20Edition%20-%20EN).pdf) : 2e édition (version anglaise), publiée avril 2026 par 9562-7303 Québec inc.
+- [**Rubberduck Style Guide (2e Edition) - FR**](https://github.com/rubberduck-vba/.github/blob/a68bea24965c2efcd98cd8b8dc30d1d045de0767/assets/Rubberduck%20Style%20Guide%20(2e%20Edition%20-%20FR).pdf) : 2e édition (version française), publiée avril 2026 par 9562-7303 Québec inc.
+
+This repository is home to the following public documents, freely available for reference and documentation purposes:
+- **MS-VBAL** : The specific version of the _Visual Basic for Appplication_ (VBA) language specifications from Microsoft, used by 9562-7303 Québec inc. to implement the language server (LSP) in **Rubberduck Core** (RDCore).
+- **Rubberduck Style Guide (2023 Edition)** : The original document published in June 2023 by Mathieu Guindon (English only).
+- **Rubberduck Style Guide (2nd Edition) - EN** : 2nd edition (English version), published in Avril 2026 by 9562-7303 Québec inc.
+- **Rubberduck Style Guide (2e Edition) - FR** : 2nd edition (French version), published in Avril 2026 by 9562-7303 Québec inc.
+
+---
 <small>(C) Copyright 2026 1962-7303 Québec inc.<small>
